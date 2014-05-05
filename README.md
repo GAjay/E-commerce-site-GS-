@@ -1,4 +1,3 @@
-myprogress1
+CREATE E-COMMERCE STIE USING GOOGLE SCRIPT 
 ===========
-
-my progress on git with g
+Use Google Script for your E-commerce store :)
