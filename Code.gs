@@ -33,7 +33,7 @@ function onFromSubmit(e){
                                    //choose category
                                   
                                   //GET Laptop SpreadSheet using spreadsheet id function
-                                   idnum("1IXBdZbdDEn-B5k__UUwzqf8efE16XtABw-NIJhLY0Po");
+                                   idnum ="1IXBdZbdDEn-B5k__UUwzqf8efE16XtABw-NIJhLY0Po";
                                    SendMailtouser(idnum,k,id,emailaddress,cat);
                                    
                            break;//break the case of laptop
